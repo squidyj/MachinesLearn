@@ -1,0 +1,9 @@
+package machineslearn;
+
+/**
+ *
+ * @author Bruce
+ */
+public interface Entity {
+    
+}
